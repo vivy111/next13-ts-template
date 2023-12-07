@@ -1,4 +1,4 @@
-# 一个基于t3的nextjs13模版
+# 一个基于t3的nextjs13的template
 ## Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
